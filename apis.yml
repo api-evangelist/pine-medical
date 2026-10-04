@@ -33,6 +33,7 @@ description: >-
   program effective March 30, 2024, and redirects former patients to alternative
   providers and insurance-covered options. No public API, developer portal,
   documentation, or machine-readable API surface was found.
+x-status: defunct
 url: https://raw.githubusercontent.com/api-evangelist/pine-medical/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -50,6 +51,7 @@ tags:
 - Weight Loss
 - Digital Health
 - Medical
+- Defunct
 apis: []
 common:
 - type: Website
